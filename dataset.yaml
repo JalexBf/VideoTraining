@@ -1,0 +1,4 @@
+nc: 3
+names: ['car', 'sign', 'pedestrian']
+train: /home/alexj/PycharmProjects/VideoTraining/dataset/train
+val: /home/alexj/PycharmProjects/VideoTraining/dataset/val
